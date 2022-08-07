@@ -4,4 +4,4 @@ coomit test
 789
 add line
 new branch line
-new line for GUII
+new line for GUI
